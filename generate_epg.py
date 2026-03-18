@@ -22,9 +22,7 @@ def generate_multi_channel_epg():
     
     CUSTOM_MESSAGES = [
         "DISCORD: https://discord.gg/fnsWGDy2mm",
-        "UPDATE: EPG Dummy Project v1.0 is now live.",
-        "NOTICE: This playlist is under construction.",
-        "WARNING: Do not share this playlist."
+        "UPDATE: EPG Dummy Project v1.0 is now live."
     ]
     
     filename = "epg.xml"
