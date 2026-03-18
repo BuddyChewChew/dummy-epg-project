@@ -30,15 +30,15 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # This ensures there is ALWAYS a change to commit for the heartbeat
+          # Create heartbeat file to ensure there is always a change to commit
           date -u > last_run.txt
           
-          # Add the generated epg and the heartbeat file
-          git add epg.xml last_run.txt
+          # Add the EPG, the ID text list, and the heartbeat file
+          git add epg.xml epg_ids.txt last_run.txt
           
           # Commit using amend to keep the repo history from growing infinitely
           # If amend fails (first run), it will perform a standard commit
           git commit --amend -m "Fresh EPG Update: $(date -u)" || git commit -m "Fresh EPG Update: $(date -u)"
           
-          # Force push to overwrite the old file with the new one
+          # Force push to overwrite the old files with the new ones
           git push --force
