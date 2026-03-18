@@ -10,14 +10,14 @@ def generate_multi_channel_epg():
         {"id": "INFO.bud", "name": "INFO CHANNEL", "logo": DEFAULT_LOGO},
         {"id": "Fishing.bud", "name": "Fishing", "logo": DEFAULT_LOGO},
         {"id": "Channel1.bud", "name": "Channel Name 3", "logo": DEFAULT_LOGO},
-        {"id": "Channel2.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO},
-        {"id": "Channel3.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO},
-        {"id": "Channel4.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO},
-        {"id": "Channel5.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO},
+        {"id": "Channel2.bud", "name": "Channel Name 4", "logo": DEFAULT_LOGO},
+        {"id": "Channel3.bud", "name": "Channel Name 5", "logo": DEFAULT_LOGO},
+        {"id": "Channel4.bud", "name": "Channel Name 6", "logo": DEFAULT_LOGO},
+        {"id": "Channel5.bud", "name": "Channel Name 7", "logo": DEFAULT_LOGO},
         {"id": "Channel6.bud", "name": "News 24/7", "logo": DEFAULT_LOGO},
-        {"id": "Channel7.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO},
-        {"id": "Channel8.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO},
-        {"id": "Channel9.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO}
+        {"id": "Channel7.bud", "name": "Channel Name 8", "logo": DEFAULT_LOGO},
+        {"id": "Channel8.bud", "name": "Channel Name 9", "logo": DEFAULT_LOGO},
+        {"id": "Channel9.bud", "name": "Channel Name 10", "logo": DEFAULT_LOGO}
     ]
     
     CUSTOM_MESSAGES = [
