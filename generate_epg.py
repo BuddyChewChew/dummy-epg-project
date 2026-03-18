@@ -9,15 +9,15 @@ def generate_multi_channel_epg():
     channels = [
         {"id": "INFO.bud", "name": "INFO CHANNEL", "logo": DEFAULT_LOGO},
         {"id": "Fishing.bud", "name": "Fishing", "logo": DEFAULT_LOGO},
-        {"id": "Channel1.bud", "name": "Action Movies", "logo": DEFAULT_LOGO},
-        {"id": "Channel2.bud", "name": "Classic TV", "logo": DEFAULT_LOGO},
-        {"id": "Channel3.bud", "name": "Sci-Fi Zone", "logo": DEFAULT_LOGO},
-        {"id": "Channel4.bud", "name": "Comedy Central Clone", "logo": DEFAULT_LOGO},
-        {"id": "Channel5.bud", "name": "Documentary Hub", "logo": DEFAULT_LOGO},
+        {"id": "Channel1.bud", "name": "Channel Name 3", "logo": DEFAULT_LOGO},
+        {"id": "Channel2.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO},
+        {"id": "Channel3.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO},
+        {"id": "Channel4.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO},
+        {"id": "Channel5.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO},
         {"id": "Channel6.bud", "name": "News 24/7", "logo": DEFAULT_LOGO},
-        {"id": "Channel7.bud", "name": "Sports Replays", "logo": DEFAULT_LOGO},
-        {"id": "Channel8.bud", "name": "Music Hits", "logo": DEFAULT_LOGO},
-        {"id": "Channel9.bud", "name": "Kids Club", "logo": DEFAULT_LOGO}
+        {"id": "Channel7.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO},
+        {"id": "Channel8.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO},
+        {"id": "Channel9.bud", "name": "Channel Name ", "logo": DEFAULT_LOGO}
     ]
     
     CUSTOM_MESSAGES = [
