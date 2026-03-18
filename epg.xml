@@ -4,6 +4,10 @@
     <display-name>INFO CHANNEL</display-name>
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
+  <channel id="Fishing.bud">
+    <display-name>Fishing</display-name>
+    <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
+  </channel>
   <channel id="Channel1.bud">
     <display-name>Action Movies</display-name>
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
@@ -47,7 +51,55 @@ UPDATE: EPG Light Project v2.0 is now live.
 NOTICE: Maintenance scheduled for Sunday at 02:00.
 TIP: Use Tivimate for the best experience with this guide.
 
-LAST REGEN: 2026-03-18 18:42:53 UTC</desc>
+LAST REGEN: 2026-03-18 18:53:04 UTC</desc>
+  </programme>
+  <programme start="20260318180000 +0000" stop="20260318200000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing - Block 1</title>
+    <desc lang="en">Continuous automated programming.</desc>
+  </programme>
+  <programme start="20260318200000 +0000" stop="20260318220000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing - Block 2</title>
+    <desc lang="en">Continuous automated programming.</desc>
+  </programme>
+  <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing - Block 3</title>
+    <desc lang="en">Continuous automated programming.</desc>
+  </programme>
+  <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing - Block 4</title>
+    <desc lang="en">Continuous automated programming.</desc>
+  </programme>
+  <programme start="20260319020000 +0000" stop="20260319040000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing - Block 5</title>
+    <desc lang="en">Continuous automated programming.</desc>
+  </programme>
+  <programme start="20260319040000 +0000" stop="20260319060000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing - Block 6</title>
+    <desc lang="en">Continuous automated programming.</desc>
+  </programme>
+  <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing - Block 7</title>
+    <desc lang="en">Continuous automated programming.</desc>
+  </programme>
+  <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing - Block 8</title>
+    <desc lang="en">Continuous automated programming.</desc>
+  </programme>
+  <programme start="20260319100000 +0000" stop="20260319120000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing - Block 9</title>
+    <desc lang="en">Continuous automated programming.</desc>
+  </programme>
+  <programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing - Block 10</title>
+    <desc lang="en">Continuous automated programming.</desc>
+  </programme>
+  <programme start="20260319140000 +0000" stop="20260319160000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing - Block 11</title>
+    <desc lang="en">Continuous automated programming.</desc>
+  </programme>
+  <programme start="20260319160000 +0000" stop="20260319180000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing - Block 12</title>
+    <desc lang="en">Continuous automated programming.</desc>
   </programme>
   <programme start="20260318180000 +0000" stop="20260318200000 +0000" channel="Channel1.bud">
     <title lang="en">Action Movies - Block 1</title>

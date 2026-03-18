@@ -1,4 +1,5 @@
 INFO.bud
+Fishing.bud
 Channel1.bud
 Channel2.bud
 Channel3.bud
