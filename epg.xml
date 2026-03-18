@@ -8,526 +8,526 @@
     <display-name>Fishing</display-name>
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
-  <channel id="Channel1.bud">
+  <channel id="News.24.7.bud">
     <display-name>News 24/7</display-name>
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
-  <channel id="Channel2.bud">
+  <channel id="Channel4.bud">
     <display-name>Channel Name 4</display-name>
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
-  <channel id="Channel3.bud">
+  <channel id="Channel5.bud">
     <display-name>Channel Name 5</display-name>
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
-  <channel id="Channel4.bud">
+  <channel id="Channel6.bud">
     <display-name>Channel Name 6</display-name>
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
-  <channel id="Channel5.bud">
+  <channel id="Channel7.bud">
     <display-name>Channel Name 7</display-name>
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
-  <channel id="Channel6.bud">
+  <channel id="Channel8.bud">
     <display-name>Channel Name 8</display-name>
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
-  <channel id="Channel7.bud">
+  <channel id="Channel9.bud">
     <display-name>Channel Name 9</display-name>
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
-  <channel id="Channel8.bud">
+  <channel id="Channel10.bud">
     <display-name>Channel Name 10</display-name>
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
-  <channel id="Channel9.bud">
+  <channel id="Channel11.bud">
     <display-name>Channel Name 11</display-name>
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
-  <programme start="20260318190000 +0000" stop="20260319190000 +0000" channel="INFO.bud">
+  <programme start="20260318200000 +0000" stop="20260319200000 +0000" channel="INFO.bud">
     <title lang="en">INFO &amp; UPDATE CHANNEL</title>
     <desc lang="en">DISCORD: https://discord.gg/fnsWGDy2mm
 UPDATE: EPG Dummy Project v1.0 is now live.
 
-LAST REGEN: 2026-03-18 19:47:37 UTC</desc>
+LAST REGEN: 2026-03-18 20:08:46 UTC</desc>
   </programme>
-  <programme start="20260318190000 +0000" stop="20260318210000 +0000" channel="Fishing.bud">
+  <programme start="20260318200000 +0000" stop="20260318220000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing - Block 1</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318210000 +0000" stop="20260318230000 +0000" channel="Fishing.bud">
+  <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing - Block 2</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="Fishing.bud">
+  <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing - Block 3</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319010000 +0000" stop="20260319030000 +0000" channel="Fishing.bud">
+  <programme start="20260319020000 +0000" stop="20260319040000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing - Block 4</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319030000 +0000" stop="20260319050000 +0000" channel="Fishing.bud">
+  <programme start="20260319040000 +0000" stop="20260319060000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing - Block 5</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319050000 +0000" stop="20260319070000 +0000" channel="Fishing.bud">
+  <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing - Block 6</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319070000 +0000" stop="20260319090000 +0000" channel="Fishing.bud">
+  <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing - Block 7</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319090000 +0000" stop="20260319110000 +0000" channel="Fishing.bud">
+  <programme start="20260319100000 +0000" stop="20260319120000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing - Block 8</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319110000 +0000" stop="20260319130000 +0000" channel="Fishing.bud">
+  <programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing - Block 9</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Fishing.bud">
+  <programme start="20260319140000 +0000" stop="20260319160000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing - Block 10</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319150000 +0000" stop="20260319170000 +0000" channel="Fishing.bud">
+  <programme start="20260319160000 +0000" stop="20260319180000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing - Block 11</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Fishing.bud">
+  <programme start="20260319180000 +0000" stop="20260319200000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing - Block 12</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318190000 +0000" stop="20260318210000 +0000" channel="Channel1.bud">
+  <programme start="20260318200000 +0000" stop="20260318220000 +0000" channel="News.24.7.bud">
     <title lang="en">News 24/7 - Block 1</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318210000 +0000" stop="20260318230000 +0000" channel="Channel1.bud">
+  <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="News.24.7.bud">
     <title lang="en">News 24/7 - Block 2</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="Channel1.bud">
+  <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="News.24.7.bud">
     <title lang="en">News 24/7 - Block 3</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319010000 +0000" stop="20260319030000 +0000" channel="Channel1.bud">
+  <programme start="20260319020000 +0000" stop="20260319040000 +0000" channel="News.24.7.bud">
     <title lang="en">News 24/7 - Block 4</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319030000 +0000" stop="20260319050000 +0000" channel="Channel1.bud">
+  <programme start="20260319040000 +0000" stop="20260319060000 +0000" channel="News.24.7.bud">
     <title lang="en">News 24/7 - Block 5</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319050000 +0000" stop="20260319070000 +0000" channel="Channel1.bud">
+  <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="News.24.7.bud">
     <title lang="en">News 24/7 - Block 6</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319070000 +0000" stop="20260319090000 +0000" channel="Channel1.bud">
+  <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="News.24.7.bud">
     <title lang="en">News 24/7 - Block 7</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319090000 +0000" stop="20260319110000 +0000" channel="Channel1.bud">
+  <programme start="20260319100000 +0000" stop="20260319120000 +0000" channel="News.24.7.bud">
     <title lang="en">News 24/7 - Block 8</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319110000 +0000" stop="20260319130000 +0000" channel="Channel1.bud">
+  <programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="News.24.7.bud">
     <title lang="en">News 24/7 - Block 9</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Channel1.bud">
+  <programme start="20260319140000 +0000" stop="20260319160000 +0000" channel="News.24.7.bud">
     <title lang="en">News 24/7 - Block 10</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319150000 +0000" stop="20260319170000 +0000" channel="Channel1.bud">
+  <programme start="20260319160000 +0000" stop="20260319180000 +0000" channel="News.24.7.bud">
     <title lang="en">News 24/7 - Block 11</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Channel1.bud">
+  <programme start="20260319180000 +0000" stop="20260319200000 +0000" channel="News.24.7.bud">
     <title lang="en">News 24/7 - Block 12</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318190000 +0000" stop="20260318210000 +0000" channel="Channel2.bud">
+  <programme start="20260318200000 +0000" stop="20260318220000 +0000" channel="Channel4.bud">
     <title lang="en">Channel Name 4 - Block 1</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318210000 +0000" stop="20260318230000 +0000" channel="Channel2.bud">
+  <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="Channel4.bud">
     <title lang="en">Channel Name 4 - Block 2</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="Channel2.bud">
+  <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="Channel4.bud">
     <title lang="en">Channel Name 4 - Block 3</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319010000 +0000" stop="20260319030000 +0000" channel="Channel2.bud">
+  <programme start="20260319020000 +0000" stop="20260319040000 +0000" channel="Channel4.bud">
     <title lang="en">Channel Name 4 - Block 4</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319030000 +0000" stop="20260319050000 +0000" channel="Channel2.bud">
+  <programme start="20260319040000 +0000" stop="20260319060000 +0000" channel="Channel4.bud">
     <title lang="en">Channel Name 4 - Block 5</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319050000 +0000" stop="20260319070000 +0000" channel="Channel2.bud">
+  <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="Channel4.bud">
     <title lang="en">Channel Name 4 - Block 6</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319070000 +0000" stop="20260319090000 +0000" channel="Channel2.bud">
+  <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="Channel4.bud">
     <title lang="en">Channel Name 4 - Block 7</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319090000 +0000" stop="20260319110000 +0000" channel="Channel2.bud">
+  <programme start="20260319100000 +0000" stop="20260319120000 +0000" channel="Channel4.bud">
     <title lang="en">Channel Name 4 - Block 8</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319110000 +0000" stop="20260319130000 +0000" channel="Channel2.bud">
+  <programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="Channel4.bud">
     <title lang="en">Channel Name 4 - Block 9</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Channel2.bud">
+  <programme start="20260319140000 +0000" stop="20260319160000 +0000" channel="Channel4.bud">
     <title lang="en">Channel Name 4 - Block 10</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319150000 +0000" stop="20260319170000 +0000" channel="Channel2.bud">
+  <programme start="20260319160000 +0000" stop="20260319180000 +0000" channel="Channel4.bud">
     <title lang="en">Channel Name 4 - Block 11</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Channel2.bud">
+  <programme start="20260319180000 +0000" stop="20260319200000 +0000" channel="Channel4.bud">
     <title lang="en">Channel Name 4 - Block 12</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318190000 +0000" stop="20260318210000 +0000" channel="Channel3.bud">
+  <programme start="20260318200000 +0000" stop="20260318220000 +0000" channel="Channel5.bud">
     <title lang="en">Channel Name 5 - Block 1</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318210000 +0000" stop="20260318230000 +0000" channel="Channel3.bud">
+  <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="Channel5.bud">
     <title lang="en">Channel Name 5 - Block 2</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="Channel3.bud">
+  <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="Channel5.bud">
     <title lang="en">Channel Name 5 - Block 3</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319010000 +0000" stop="20260319030000 +0000" channel="Channel3.bud">
+  <programme start="20260319020000 +0000" stop="20260319040000 +0000" channel="Channel5.bud">
     <title lang="en">Channel Name 5 - Block 4</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319030000 +0000" stop="20260319050000 +0000" channel="Channel3.bud">
+  <programme start="20260319040000 +0000" stop="20260319060000 +0000" channel="Channel5.bud">
     <title lang="en">Channel Name 5 - Block 5</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319050000 +0000" stop="20260319070000 +0000" channel="Channel3.bud">
+  <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="Channel5.bud">
     <title lang="en">Channel Name 5 - Block 6</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319070000 +0000" stop="20260319090000 +0000" channel="Channel3.bud">
+  <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="Channel5.bud">
     <title lang="en">Channel Name 5 - Block 7</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319090000 +0000" stop="20260319110000 +0000" channel="Channel3.bud">
+  <programme start="20260319100000 +0000" stop="20260319120000 +0000" channel="Channel5.bud">
     <title lang="en">Channel Name 5 - Block 8</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319110000 +0000" stop="20260319130000 +0000" channel="Channel3.bud">
+  <programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="Channel5.bud">
     <title lang="en">Channel Name 5 - Block 9</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Channel3.bud">
+  <programme start="20260319140000 +0000" stop="20260319160000 +0000" channel="Channel5.bud">
     <title lang="en">Channel Name 5 - Block 10</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319150000 +0000" stop="20260319170000 +0000" channel="Channel3.bud">
+  <programme start="20260319160000 +0000" stop="20260319180000 +0000" channel="Channel5.bud">
     <title lang="en">Channel Name 5 - Block 11</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Channel3.bud">
+  <programme start="20260319180000 +0000" stop="20260319200000 +0000" channel="Channel5.bud">
     <title lang="en">Channel Name 5 - Block 12</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318190000 +0000" stop="20260318210000 +0000" channel="Channel4.bud">
+  <programme start="20260318200000 +0000" stop="20260318220000 +0000" channel="Channel6.bud">
     <title lang="en">Channel Name 6 - Block 1</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318210000 +0000" stop="20260318230000 +0000" channel="Channel4.bud">
+  <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="Channel6.bud">
     <title lang="en">Channel Name 6 - Block 2</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="Channel4.bud">
+  <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="Channel6.bud">
     <title lang="en">Channel Name 6 - Block 3</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319010000 +0000" stop="20260319030000 +0000" channel="Channel4.bud">
+  <programme start="20260319020000 +0000" stop="20260319040000 +0000" channel="Channel6.bud">
     <title lang="en">Channel Name 6 - Block 4</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319030000 +0000" stop="20260319050000 +0000" channel="Channel4.bud">
+  <programme start="20260319040000 +0000" stop="20260319060000 +0000" channel="Channel6.bud">
     <title lang="en">Channel Name 6 - Block 5</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319050000 +0000" stop="20260319070000 +0000" channel="Channel4.bud">
+  <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="Channel6.bud">
     <title lang="en">Channel Name 6 - Block 6</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319070000 +0000" stop="20260319090000 +0000" channel="Channel4.bud">
+  <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="Channel6.bud">
     <title lang="en">Channel Name 6 - Block 7</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319090000 +0000" stop="20260319110000 +0000" channel="Channel4.bud">
+  <programme start="20260319100000 +0000" stop="20260319120000 +0000" channel="Channel6.bud">
     <title lang="en">Channel Name 6 - Block 8</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319110000 +0000" stop="20260319130000 +0000" channel="Channel4.bud">
+  <programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="Channel6.bud">
     <title lang="en">Channel Name 6 - Block 9</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Channel4.bud">
+  <programme start="20260319140000 +0000" stop="20260319160000 +0000" channel="Channel6.bud">
     <title lang="en">Channel Name 6 - Block 10</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319150000 +0000" stop="20260319170000 +0000" channel="Channel4.bud">
+  <programme start="20260319160000 +0000" stop="20260319180000 +0000" channel="Channel6.bud">
     <title lang="en">Channel Name 6 - Block 11</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Channel4.bud">
+  <programme start="20260319180000 +0000" stop="20260319200000 +0000" channel="Channel6.bud">
     <title lang="en">Channel Name 6 - Block 12</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318190000 +0000" stop="20260318210000 +0000" channel="Channel5.bud">
+  <programme start="20260318200000 +0000" stop="20260318220000 +0000" channel="Channel7.bud">
     <title lang="en">Channel Name 7 - Block 1</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318210000 +0000" stop="20260318230000 +0000" channel="Channel5.bud">
+  <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="Channel7.bud">
     <title lang="en">Channel Name 7 - Block 2</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="Channel5.bud">
+  <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="Channel7.bud">
     <title lang="en">Channel Name 7 - Block 3</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319010000 +0000" stop="20260319030000 +0000" channel="Channel5.bud">
+  <programme start="20260319020000 +0000" stop="20260319040000 +0000" channel="Channel7.bud">
     <title lang="en">Channel Name 7 - Block 4</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319030000 +0000" stop="20260319050000 +0000" channel="Channel5.bud">
+  <programme start="20260319040000 +0000" stop="20260319060000 +0000" channel="Channel7.bud">
     <title lang="en">Channel Name 7 - Block 5</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319050000 +0000" stop="20260319070000 +0000" channel="Channel5.bud">
+  <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="Channel7.bud">
     <title lang="en">Channel Name 7 - Block 6</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319070000 +0000" stop="20260319090000 +0000" channel="Channel5.bud">
+  <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="Channel7.bud">
     <title lang="en">Channel Name 7 - Block 7</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319090000 +0000" stop="20260319110000 +0000" channel="Channel5.bud">
+  <programme start="20260319100000 +0000" stop="20260319120000 +0000" channel="Channel7.bud">
     <title lang="en">Channel Name 7 - Block 8</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319110000 +0000" stop="20260319130000 +0000" channel="Channel5.bud">
+  <programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="Channel7.bud">
     <title lang="en">Channel Name 7 - Block 9</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Channel5.bud">
+  <programme start="20260319140000 +0000" stop="20260319160000 +0000" channel="Channel7.bud">
     <title lang="en">Channel Name 7 - Block 10</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319150000 +0000" stop="20260319170000 +0000" channel="Channel5.bud">
+  <programme start="20260319160000 +0000" stop="20260319180000 +0000" channel="Channel7.bud">
     <title lang="en">Channel Name 7 - Block 11</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Channel5.bud">
+  <programme start="20260319180000 +0000" stop="20260319200000 +0000" channel="Channel7.bud">
     <title lang="en">Channel Name 7 - Block 12</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318190000 +0000" stop="20260318210000 +0000" channel="Channel6.bud">
+  <programme start="20260318200000 +0000" stop="20260318220000 +0000" channel="Channel8.bud">
     <title lang="en">Channel Name 8 - Block 1</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318210000 +0000" stop="20260318230000 +0000" channel="Channel6.bud">
+  <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="Channel8.bud">
     <title lang="en">Channel Name 8 - Block 2</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="Channel6.bud">
+  <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="Channel8.bud">
     <title lang="en">Channel Name 8 - Block 3</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319010000 +0000" stop="20260319030000 +0000" channel="Channel6.bud">
+  <programme start="20260319020000 +0000" stop="20260319040000 +0000" channel="Channel8.bud">
     <title lang="en">Channel Name 8 - Block 4</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319030000 +0000" stop="20260319050000 +0000" channel="Channel6.bud">
+  <programme start="20260319040000 +0000" stop="20260319060000 +0000" channel="Channel8.bud">
     <title lang="en">Channel Name 8 - Block 5</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319050000 +0000" stop="20260319070000 +0000" channel="Channel6.bud">
+  <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="Channel8.bud">
     <title lang="en">Channel Name 8 - Block 6</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319070000 +0000" stop="20260319090000 +0000" channel="Channel6.bud">
+  <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="Channel8.bud">
     <title lang="en">Channel Name 8 - Block 7</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319090000 +0000" stop="20260319110000 +0000" channel="Channel6.bud">
+  <programme start="20260319100000 +0000" stop="20260319120000 +0000" channel="Channel8.bud">
     <title lang="en">Channel Name 8 - Block 8</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319110000 +0000" stop="20260319130000 +0000" channel="Channel6.bud">
+  <programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="Channel8.bud">
     <title lang="en">Channel Name 8 - Block 9</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Channel6.bud">
+  <programme start="20260319140000 +0000" stop="20260319160000 +0000" channel="Channel8.bud">
     <title lang="en">Channel Name 8 - Block 10</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319150000 +0000" stop="20260319170000 +0000" channel="Channel6.bud">
+  <programme start="20260319160000 +0000" stop="20260319180000 +0000" channel="Channel8.bud">
     <title lang="en">Channel Name 8 - Block 11</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Channel6.bud">
+  <programme start="20260319180000 +0000" stop="20260319200000 +0000" channel="Channel8.bud">
     <title lang="en">Channel Name 8 - Block 12</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318190000 +0000" stop="20260318210000 +0000" channel="Channel7.bud">
+  <programme start="20260318200000 +0000" stop="20260318220000 +0000" channel="Channel9.bud">
     <title lang="en">Channel Name 9 - Block 1</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318210000 +0000" stop="20260318230000 +0000" channel="Channel7.bud">
+  <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="Channel9.bud">
     <title lang="en">Channel Name 9 - Block 2</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="Channel7.bud">
+  <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="Channel9.bud">
     <title lang="en">Channel Name 9 - Block 3</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319010000 +0000" stop="20260319030000 +0000" channel="Channel7.bud">
+  <programme start="20260319020000 +0000" stop="20260319040000 +0000" channel="Channel9.bud">
     <title lang="en">Channel Name 9 - Block 4</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319030000 +0000" stop="20260319050000 +0000" channel="Channel7.bud">
+  <programme start="20260319040000 +0000" stop="20260319060000 +0000" channel="Channel9.bud">
     <title lang="en">Channel Name 9 - Block 5</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319050000 +0000" stop="20260319070000 +0000" channel="Channel7.bud">
+  <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="Channel9.bud">
     <title lang="en">Channel Name 9 - Block 6</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319070000 +0000" stop="20260319090000 +0000" channel="Channel7.bud">
+  <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="Channel9.bud">
     <title lang="en">Channel Name 9 - Block 7</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319090000 +0000" stop="20260319110000 +0000" channel="Channel7.bud">
+  <programme start="20260319100000 +0000" stop="20260319120000 +0000" channel="Channel9.bud">
     <title lang="en">Channel Name 9 - Block 8</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319110000 +0000" stop="20260319130000 +0000" channel="Channel7.bud">
+  <programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="Channel9.bud">
     <title lang="en">Channel Name 9 - Block 9</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Channel7.bud">
+  <programme start="20260319140000 +0000" stop="20260319160000 +0000" channel="Channel9.bud">
     <title lang="en">Channel Name 9 - Block 10</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319150000 +0000" stop="20260319170000 +0000" channel="Channel7.bud">
+  <programme start="20260319160000 +0000" stop="20260319180000 +0000" channel="Channel9.bud">
     <title lang="en">Channel Name 9 - Block 11</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Channel7.bud">
+  <programme start="20260319180000 +0000" stop="20260319200000 +0000" channel="Channel9.bud">
     <title lang="en">Channel Name 9 - Block 12</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318190000 +0000" stop="20260318210000 +0000" channel="Channel8.bud">
+  <programme start="20260318200000 +0000" stop="20260318220000 +0000" channel="Channel10.bud">
     <title lang="en">Channel Name 10 - Block 1</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318210000 +0000" stop="20260318230000 +0000" channel="Channel8.bud">
+  <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="Channel10.bud">
     <title lang="en">Channel Name 10 - Block 2</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="Channel8.bud">
+  <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="Channel10.bud">
     <title lang="en">Channel Name 10 - Block 3</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319010000 +0000" stop="20260319030000 +0000" channel="Channel8.bud">
+  <programme start="20260319020000 +0000" stop="20260319040000 +0000" channel="Channel10.bud">
     <title lang="en">Channel Name 10 - Block 4</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319030000 +0000" stop="20260319050000 +0000" channel="Channel8.bud">
+  <programme start="20260319040000 +0000" stop="20260319060000 +0000" channel="Channel10.bud">
     <title lang="en">Channel Name 10 - Block 5</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319050000 +0000" stop="20260319070000 +0000" channel="Channel8.bud">
+  <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="Channel10.bud">
     <title lang="en">Channel Name 10 - Block 6</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319070000 +0000" stop="20260319090000 +0000" channel="Channel8.bud">
+  <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="Channel10.bud">
     <title lang="en">Channel Name 10 - Block 7</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319090000 +0000" stop="20260319110000 +0000" channel="Channel8.bud">
+  <programme start="20260319100000 +0000" stop="20260319120000 +0000" channel="Channel10.bud">
     <title lang="en">Channel Name 10 - Block 8</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319110000 +0000" stop="20260319130000 +0000" channel="Channel8.bud">
+  <programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="Channel10.bud">
     <title lang="en">Channel Name 10 - Block 9</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Channel8.bud">
+  <programme start="20260319140000 +0000" stop="20260319160000 +0000" channel="Channel10.bud">
     <title lang="en">Channel Name 10 - Block 10</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319150000 +0000" stop="20260319170000 +0000" channel="Channel8.bud">
+  <programme start="20260319160000 +0000" stop="20260319180000 +0000" channel="Channel10.bud">
     <title lang="en">Channel Name 10 - Block 11</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Channel8.bud">
+  <programme start="20260319180000 +0000" stop="20260319200000 +0000" channel="Channel10.bud">
     <title lang="en">Channel Name 10 - Block 12</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318190000 +0000" stop="20260318210000 +0000" channel="Channel9.bud">
+  <programme start="20260318200000 +0000" stop="20260318220000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11 - Block 1</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318210000 +0000" stop="20260318230000 +0000" channel="Channel9.bud">
+  <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11 - Block 2</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="Channel9.bud">
+  <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11 - Block 3</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319010000 +0000" stop="20260319030000 +0000" channel="Channel9.bud">
+  <programme start="20260319020000 +0000" stop="20260319040000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11 - Block 4</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319030000 +0000" stop="20260319050000 +0000" channel="Channel9.bud">
+  <programme start="20260319040000 +0000" stop="20260319060000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11 - Block 5</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319050000 +0000" stop="20260319070000 +0000" channel="Channel9.bud">
+  <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11 - Block 6</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319070000 +0000" stop="20260319090000 +0000" channel="Channel9.bud">
+  <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11 - Block 7</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319090000 +0000" stop="20260319110000 +0000" channel="Channel9.bud">
+  <programme start="20260319100000 +0000" stop="20260319120000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11 - Block 8</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319110000 +0000" stop="20260319130000 +0000" channel="Channel9.bud">
+  <programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11 - Block 9</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Channel9.bud">
+  <programme start="20260319140000 +0000" stop="20260319160000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11 - Block 10</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319150000 +0000" stop="20260319170000 +0000" channel="Channel9.bud">
+  <programme start="20260319160000 +0000" stop="20260319180000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11 - Block 11</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>
-  <programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Channel9.bud">
+  <programme start="20260319180000 +0000" stop="20260319200000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11 - Block 12</title>
     <desc lang="en">Continuous automated programming.</desc>
   </programme>

@@ -1,11 +1,11 @@
 INFO.bud
 Fishing.bud
-Channel1.bud
-Channel2.bud
-Channel3.bud
+News.24.7.bud
 Channel4.bud
 Channel5.bud
 Channel6.bud
 Channel7.bud
 Channel8.bud
 Channel9.bud
+Channel10.bud
+Channel11.bud
