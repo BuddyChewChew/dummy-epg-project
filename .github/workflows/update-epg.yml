@@ -1,4 +1,4 @@
-name: Update Light EPG
+name: Update Dummy EPG
 
 on:
   schedule:
