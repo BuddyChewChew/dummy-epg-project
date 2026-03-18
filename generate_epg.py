@@ -22,9 +22,9 @@ def generate_multi_channel_epg():
     
     CUSTOM_MESSAGES = [
         "DISCORD: https://discord.gg/fnsWGDy2mm",
-        "UPDATE: EPG Light Project v2.0 is now live.",
-        "NOTICE: Maintenance scheduled for Sunday at 02:00.",
-        "TIP: Use Tivimate for the best experience with this guide."
+        "UPDATE: EPG Dummy Project v1.0 is now live.",
+        "NOTICE: This playlist is under construction.",
+        "WARNING: Do not share this playlist."
     ]
     
     filename = "epg.xml"
