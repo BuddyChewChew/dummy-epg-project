@@ -4,7 +4,7 @@ from xml.dom import minidom
 
 def generate_multi_channel_epg():
     # 1. Configuration: Add your default logo URL here
-    DEFAULT_LOGO = "https://your-repo-path.com/logo.png"
+    DEFAULT_LOGO = "https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"
     
     channels = [
         {"id": "INFO.bud", "name": "INFO CHANNEL", "logo": DEFAULT_LOGO},
