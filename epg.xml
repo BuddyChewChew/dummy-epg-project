@@ -45,13 +45,13 @@
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
   <programme start="20260318190000 +0000" stop="20260319190000 +0000" channel="INFO.bud">
-    <title lang="en">SYSTEM STATUS &amp; DISCORD INFO</title>
+    <title lang="en">INFO &amp; UPDATE CHANNEL</title>
     <desc lang="en">DISCORD: https://discord.gg/fnsWGDy2mm
 UPDATE: EPG Dummy Project v1.0 is now live.
 NOTICE: This playlist is under construction.
 WARNING: Do not share this playlist.
 
-LAST REGEN: 2026-03-18 19:00:59 UTC</desc>
+LAST REGEN: 2026-03-18 19:27:17 UTC</desc>
   </programme>
   <programme start="20260318190000 +0000" stop="20260318210000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing - Block 1</title>
