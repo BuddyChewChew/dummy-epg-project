@@ -5,7 +5,7 @@ from xml.dom import minidom
 def generate_multi_channel_epg():
     # 1. Configuration: 10 Channels with .bud extension
     channels = [
-        {"id": "INFO.bud", "name": "SYSTEM INFO / DISCORD"},
+        {"id": "INFO.bud", "name": "INFO CHANNEL"},
         {"id": "Channel1.bud", "name": "Action Movies"},
         {"id": "Channel2.bud", "name": "Classic TV"},
         {"id": "Channel3.bud", "name": "Sci-Fi Zone"},
@@ -28,7 +28,6 @@ def generate_multi_channel_epg():
     filename = "epg.xml"
     
     # 2. Generate the Clean ID List (epg_ids.txt)
-    # This now outputs ONLY the IDs, one per line.
     with open("epg_ids.txt", "w", encoding="utf-8") as f:
         for ch in channels:
             f.write(f"{ch['id']}\n")
@@ -62,7 +61,6 @@ def generate_multi_channel_epg():
             
             ET.SubElement(prog, 'title', lang="en").text = "SYSTEM STATUS & DISCORD INFO"
             
-            # Combine custom messages with the auto-timestamp
             full_description = "\n".join(CUSTOM_MESSAGES) + f"\n\nLAST REGEN: {update_timestamp}"
             ET.SubElement(prog, 'desc', lang="en").text = full_description
             
@@ -90,7 +88,7 @@ def generate_multi_channel_epg():
     with open(filename, "w", encoding="utf-8") as f:
         f.write(pretty_xml)
         
-    print("Successfully generated epg.xml and a clean epg_ids.txt")
+    print("Successfully generated epg.xml and epg_ids.txt")
 
 if __name__ == "__main__":
     generate_multi_channel_epg()

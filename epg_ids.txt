@@ -1,8 +1,3 @@
-202603181755
-
-
--- epg_ripper_DUMMY_CHANNELS --
-
 INFO.bud
 Channel1.bud
 Channel2.bud
