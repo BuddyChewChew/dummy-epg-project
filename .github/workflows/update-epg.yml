@@ -1,0 +1,44 @@
+name: Update Light EPG
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:      # Allows you to run it manually
+
+permissions:
+  contents: write
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run EPG Generator
+        run: python generate_epg.py
+
+      - name: Commit and Force Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # This ensures there is ALWAYS a change to commit for the heartbeat
+          date -u > last_run.txt
+          
+          # Add the generated epg and the heartbeat file
+          git add epg.xml last_run.txt
+          
+          # Commit using amend to keep the repo history from growing infinitely
+          # If amend fails (first run), it will perform a standard commit
+          git commit --amend -m "Fresh EPG Update: $(date -u)" || git commit -m "Fresh EPG Update: $(date -u)"
+          
+          # Force push to overwrite the old file with the new one
+          git push --force
