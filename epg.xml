@@ -2,33 +2,43 @@
 <tv>
   <channel id="INFO.bud">
     <display-name>INFO CHANNEL</display-name>
+    <icon src="https://your-repo-path.com/logo.png"/>
   </channel>
   <channel id="Channel1.bud">
     <display-name>Action Movies</display-name>
+    <icon src="https://your-repo-path.com/logo.png"/>
   </channel>
   <channel id="Channel2.bud">
     <display-name>Classic TV</display-name>
+    <icon src="https://your-repo-path.com/logo.png"/>
   </channel>
   <channel id="Channel3.bud">
     <display-name>Sci-Fi Zone</display-name>
+    <icon src="https://your-repo-path.com/logo.png"/>
   </channel>
   <channel id="Channel4.bud">
     <display-name>Comedy Central Clone</display-name>
+    <icon src="https://your-repo-path.com/logo.png"/>
   </channel>
   <channel id="Channel5.bud">
     <display-name>Documentary Hub</display-name>
+    <icon src="https://your-repo-path.com/logo.png"/>
   </channel>
   <channel id="Channel6.bud">
     <display-name>News 24/7</display-name>
+    <icon src="https://your-repo-path.com/logo.png"/>
   </channel>
   <channel id="Channel7.bud">
     <display-name>Sports Replays</display-name>
+    <icon src="https://your-repo-path.com/logo.png"/>
   </channel>
   <channel id="Channel8.bud">
     <display-name>Music Hits</display-name>
+    <icon src="https://your-repo-path.com/logo.png"/>
   </channel>
   <channel id="Channel9.bud">
     <display-name>Kids Club</display-name>
+    <icon src="https://your-repo-path.com/logo.png"/>
   </channel>
   <programme start="20260318180000 +0000" stop="20260319180000 +0000" channel="INFO.bud">
     <title lang="en">SYSTEM STATUS &amp; DISCORD INFO</title>
@@ -37,7 +47,7 @@ UPDATE: EPG Light Project v2.0 is now live.
 NOTICE: Maintenance scheduled for Sunday at 02:00.
 TIP: Use Tivimate for the best experience with this guide.
 
-LAST REGEN: 2026-03-18 18:11:33 UTC</desc>
+LAST REGEN: 2026-03-18 18:42:23 UTC</desc>
   </programme>
   <programme start="20260318180000 +0000" stop="20260318200000 +0000" channel="Channel1.bud">
     <title lang="en">Action Movies - Block 1</title>
