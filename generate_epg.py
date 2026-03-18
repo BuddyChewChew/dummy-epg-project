@@ -39,7 +39,6 @@ def generate_multi_channel_epg():
     for ch in channels:
         chan_elem = ET.SubElement(tv, 'channel', id=ch["id"])
         ET.SubElement(chan_elem, 'display-name').text = ch["name"]
-        # This adds the default logo to the EPG
         ET.SubElement(chan_elem, 'icon', src=ch["logo"])
     
     # 5. Generate Programming
@@ -60,15 +59,17 @@ def generate_multi_channel_epg():
             ET.SubElement(prog, 'desc', lang="en").text = full_description
             
         else:
-            for i in range(12):
-                prog_start = base_start + datetime.timedelta(hours=i*2)
-                prog_stop = prog_start + datetime.timedelta(hours=2)
+            # Generates 24 blocks of 1 hour each using the channel name
+            for i in range(24):
+                prog_start = base_start + datetime.timedelta(hours=i)
+                prog_stop = prog_start + datetime.timedelta(hours=1)
                 start_str = prog_start.strftime('%Y%m%d%H%M%S +0000')
                 stop_str = prog_stop.strftime('%Y%m%d%H%M%S +0000')
                 
                 prog = ET.SubElement(tv, 'programme', start=start_str, stop=stop_str, channel=ch["id"])
-                ET.SubElement(prog, 'title', lang="en").text = f"{ch['name']} - Block {i+1}"
-                ET.SubElement(prog, 'desc', lang="en").text = "Continuous automated programming."
+                # Setting both Title and Description to the Channel Name
+                ET.SubElement(prog, 'title', lang="en").text = ch['name']
+                ET.SubElement(prog, 'desc', lang="en").text = ch['name']
 
     # 6. Format and Save XML
     xml_string = ET.tostring(tv, encoding='utf-8')
@@ -77,7 +78,7 @@ def generate_multi_channel_epg():
     with open(filename, "w", encoding="utf-8") as f:
         f.write(pretty_xml)
         
-    print("Successfully generated epg.xml with default logos.")
+    print(f"Successfully generated {filename} with clean 1-hour labels.")
 
 if __name__ == "__main__":
     generate_multi_channel_epg()
