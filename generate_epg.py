@@ -9,6 +9,7 @@ def generate_multi_channel_epg():
     channels = [
         {"id": "INFO.bud", "name": "INFO CHANNEL", "logo": DEFAULT_LOGO},
         {"id": "Fishing.bud", "name": "Fishing", "logo": DEFAULT_LOGO},
+        {"id": "Movie.bud", "name": "Movie", "logo": DEFAULT_LOGO},
         {"id": "News.24.7.bud", "name": "News 24/7", "logo": DEFAULT_LOGO},
         {"id": "Outdoors.bud", "name": "Outdoors", "logo": DEFAULT_LOGO},
         {"id": "Channel5.bud", "name": "Channel Name 5", "logo": DEFAULT_LOGO},
