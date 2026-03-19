@@ -1,7 +1,7 @@
 INFO.bud
 Fishing.bud
 News.24.7.bud
-Channel4.bud
+Outdoors.bud
 Channel5.bud
 Channel6.bud
 Channel7.bud
