@@ -1,5 +1,6 @@
 INFO.bud
 Fishing.bud
+Movie.bud
 News.24.7.bud
 Outdoors.bud
 Channel5.bud
