@@ -55,7 +55,7 @@ def generate_multi_channel_epg():
             stop_str = prog_stop.strftime('%Y%m%d%H%M%S +0000')
             
             prog = ET.SubElement(tv, 'programme', start=start_str, stop=stop_str, channel=ch["id"])
-            ET.SubElement(prog, 'title', lang="en").text = "INFO & UPDATES"
+            ET.SubElement(prog, 'title', lang="en").text = "ANY PLAYLIST UPDATES & INFO WILL BE HERE" 
             full_description = "\n".join(CUSTOM_MESSAGES) + f"\n\nLAST REGEN: {update_timestamp}"
             ET.SubElement(prog, 'desc', lang="en").text = full_description
             
