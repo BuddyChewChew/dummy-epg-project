@@ -45,7 +45,6 @@ def generate_multi_channel_epg():
     # 5. Generate Programming
     now_utc = datetime.datetime.now(datetime.timezone.utc)
     base_start = now_utc.replace(minute=0, second=0, microsecond=0)
-    update_timestamp = now_utc.strftime('%Y-%m-%d %H:%M:%S UTC')
     
     for ch in channels:
         if ch["id"] == "INFO.bud":
@@ -56,7 +55,8 @@ def generate_multi_channel_epg():
             
             prog = ET.SubElement(tv, 'programme', start=start_str, stop=stop_str, channel=ch["id"])
             ET.SubElement(prog, 'title', lang="en").text = "Working on updating EPG for cord cutter channels." 
-            full_description = "\n".join(CUSTOM_MESSAGES) + f"\n\nLAST REGEN: {update_timestamp}"
+            # Description now only contains the custom messages
+            full_description = "\n".join(CUSTOM_MESSAGES)
             ET.SubElement(prog, 'desc', lang="en").text = full_description
             
         else:
@@ -68,7 +68,6 @@ def generate_multi_channel_epg():
                 stop_str = prog_stop.strftime('%Y%m%d%H%M%S +0000')
                 
                 prog = ET.SubElement(tv, 'programme', start=start_str, stop=stop_str, channel=ch["id"])
-                # Setting both Title and Description to the Channel Name
                 ET.SubElement(prog, 'title', lang="en").text = ch['name']
                 ET.SubElement(prog, 'desc', lang="en").text = ch['name']
 
