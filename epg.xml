@@ -48,32 +48,12 @@
     <display-name>Channel Name 11</display-name>
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
-  <programme start="20260405120000 +0000" stop="20260406120000 +0000" channel="INFO.bud">
-    <title lang="en">UPDATES &amp; INFO WILL BE HERE</title>
-    <desc lang="en">3/31 - EPG Updates for Cord Cutter. Still have to do more. 
+  <programme start="20260405170000 +0000" stop="20260406170000 +0000" channel="INFO.bud">
+    <title lang="en">Working on updating EPG for cord cutter channels.</title>
+    <desc lang="en">UNDER CONSTRUCTION
 Channels marked (CC)= Cord Cutter.
 
-LAST REGEN: 2026-04-05 12:30:12 UTC</desc>
-  </programme>
-  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="Fishing.bud">
-    <title lang="en">Fishing</title>
-    <desc lang="en">Fishing</desc>
-  </programme>
-  <programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="Fishing.bud">
-    <title lang="en">Fishing</title>
-    <desc lang="en">Fishing</desc>
-  </programme>
-  <programme start="20260405140000 +0000" stop="20260405150000 +0000" channel="Fishing.bud">
-    <title lang="en">Fishing</title>
-    <desc lang="en">Fishing</desc>
-  </programme>
-  <programme start="20260405150000 +0000" stop="20260405160000 +0000" channel="Fishing.bud">
-    <title lang="en">Fishing</title>
-    <desc lang="en">Fishing</desc>
-  </programme>
-  <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="Fishing.bud">
-    <title lang="en">Fishing</title>
-    <desc lang="en">Fishing</desc>
+LAST REGEN: 2026-04-05 17:48:24 UTC</desc>
   </programme>
   <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing</title>
@@ -151,25 +131,25 @@ LAST REGEN: 2026-04-05 12:30:12 UTC</desc>
     <title lang="en">Fishing</title>
     <desc lang="en">Fishing</desc>
   </programme>
-  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="Movie.bud">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing</title>
+    <desc lang="en">Fishing</desc>
   </programme>
-  <programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="Movie.bud">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing</title>
+    <desc lang="en">Fishing</desc>
   </programme>
-  <programme start="20260405140000 +0000" stop="20260405150000 +0000" channel="Movie.bud">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing</title>
+    <desc lang="en">Fishing</desc>
   </programme>
-  <programme start="20260405150000 +0000" stop="20260405160000 +0000" channel="Movie.bud">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing</title>
+    <desc lang="en">Fishing</desc>
   </programme>
-  <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="Movie.bud">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="Fishing.bud">
+    <title lang="en">Fishing</title>
+    <desc lang="en">Fishing</desc>
   </programme>
   <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="Movie.bud">
     <title lang="en">Movie</title>
@@ -247,25 +227,25 @@ LAST REGEN: 2026-04-05 12:30:12 UTC</desc>
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
   </programme>
-  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="News.24.7.bud">
-    <title lang="en">News 24/7</title>
-    <desc lang="en">News 24/7</desc>
+  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="Movie.bud">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
   </programme>
-  <programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="News.24.7.bud">
-    <title lang="en">News 24/7</title>
-    <desc lang="en">News 24/7</desc>
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="Movie.bud">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
   </programme>
-  <programme start="20260405140000 +0000" stop="20260405150000 +0000" channel="News.24.7.bud">
-    <title lang="en">News 24/7</title>
-    <desc lang="en">News 24/7</desc>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="Movie.bud">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
   </programme>
-  <programme start="20260405150000 +0000" stop="20260405160000 +0000" channel="News.24.7.bud">
-    <title lang="en">News 24/7</title>
-    <desc lang="en">News 24/7</desc>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="Movie.bud">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
   </programme>
-  <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="News.24.7.bud">
-    <title lang="en">News 24/7</title>
-    <desc lang="en">News 24/7</desc>
+  <programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="Movie.bud">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
   </programme>
   <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="News.24.7.bud">
     <title lang="en">News 24/7</title>
@@ -343,25 +323,25 @@ LAST REGEN: 2026-04-05 12:30:12 UTC</desc>
     <title lang="en">News 24/7</title>
     <desc lang="en">News 24/7</desc>
   </programme>
-  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="Outdoors.bud">
-    <title lang="en">Outdoors</title>
-    <desc lang="en">Outdoors</desc>
+  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="News.24.7.bud">
+    <title lang="en">News 24/7</title>
+    <desc lang="en">News 24/7</desc>
   </programme>
-  <programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="Outdoors.bud">
-    <title lang="en">Outdoors</title>
-    <desc lang="en">Outdoors</desc>
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="News.24.7.bud">
+    <title lang="en">News 24/7</title>
+    <desc lang="en">News 24/7</desc>
   </programme>
-  <programme start="20260405140000 +0000" stop="20260405150000 +0000" channel="Outdoors.bud">
-    <title lang="en">Outdoors</title>
-    <desc lang="en">Outdoors</desc>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="News.24.7.bud">
+    <title lang="en">News 24/7</title>
+    <desc lang="en">News 24/7</desc>
   </programme>
-  <programme start="20260405150000 +0000" stop="20260405160000 +0000" channel="Outdoors.bud">
-    <title lang="en">Outdoors</title>
-    <desc lang="en">Outdoors</desc>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="News.24.7.bud">
+    <title lang="en">News 24/7</title>
+    <desc lang="en">News 24/7</desc>
   </programme>
-  <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="Outdoors.bud">
-    <title lang="en">Outdoors</title>
-    <desc lang="en">Outdoors</desc>
+  <programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="News.24.7.bud">
+    <title lang="en">News 24/7</title>
+    <desc lang="en">News 24/7</desc>
   </programme>
   <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="Outdoors.bud">
     <title lang="en">Outdoors</title>
@@ -439,25 +419,25 @@ LAST REGEN: 2026-04-05 12:30:12 UTC</desc>
     <title lang="en">Outdoors</title>
     <desc lang="en">Outdoors</desc>
   </programme>
-  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="Channel5.bud">
-    <title lang="en">Channel Name 5</title>
-    <desc lang="en">Channel Name 5</desc>
+  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="Outdoors.bud">
+    <title lang="en">Outdoors</title>
+    <desc lang="en">Outdoors</desc>
   </programme>
-  <programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="Channel5.bud">
-    <title lang="en">Channel Name 5</title>
-    <desc lang="en">Channel Name 5</desc>
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="Outdoors.bud">
+    <title lang="en">Outdoors</title>
+    <desc lang="en">Outdoors</desc>
   </programme>
-  <programme start="20260405140000 +0000" stop="20260405150000 +0000" channel="Channel5.bud">
-    <title lang="en">Channel Name 5</title>
-    <desc lang="en">Channel Name 5</desc>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="Outdoors.bud">
+    <title lang="en">Outdoors</title>
+    <desc lang="en">Outdoors</desc>
   </programme>
-  <programme start="20260405150000 +0000" stop="20260405160000 +0000" channel="Channel5.bud">
-    <title lang="en">Channel Name 5</title>
-    <desc lang="en">Channel Name 5</desc>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="Outdoors.bud">
+    <title lang="en">Outdoors</title>
+    <desc lang="en">Outdoors</desc>
   </programme>
-  <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="Channel5.bud">
-    <title lang="en">Channel Name 5</title>
-    <desc lang="en">Channel Name 5</desc>
+  <programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="Outdoors.bud">
+    <title lang="en">Outdoors</title>
+    <desc lang="en">Outdoors</desc>
   </programme>
   <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="Channel5.bud">
     <title lang="en">Channel Name 5</title>
@@ -535,25 +515,25 @@ LAST REGEN: 2026-04-05 12:30:12 UTC</desc>
     <title lang="en">Channel Name 5</title>
     <desc lang="en">Channel Name 5</desc>
   </programme>
-  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="Channel6.bud">
-    <title lang="en">Channel Name 6</title>
-    <desc lang="en">Channel Name 6</desc>
+  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="Channel5.bud">
+    <title lang="en">Channel Name 5</title>
+    <desc lang="en">Channel Name 5</desc>
   </programme>
-  <programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="Channel6.bud">
-    <title lang="en">Channel Name 6</title>
-    <desc lang="en">Channel Name 6</desc>
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="Channel5.bud">
+    <title lang="en">Channel Name 5</title>
+    <desc lang="en">Channel Name 5</desc>
   </programme>
-  <programme start="20260405140000 +0000" stop="20260405150000 +0000" channel="Channel6.bud">
-    <title lang="en">Channel Name 6</title>
-    <desc lang="en">Channel Name 6</desc>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="Channel5.bud">
+    <title lang="en">Channel Name 5</title>
+    <desc lang="en">Channel Name 5</desc>
   </programme>
-  <programme start="20260405150000 +0000" stop="20260405160000 +0000" channel="Channel6.bud">
-    <title lang="en">Channel Name 6</title>
-    <desc lang="en">Channel Name 6</desc>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="Channel5.bud">
+    <title lang="en">Channel Name 5</title>
+    <desc lang="en">Channel Name 5</desc>
   </programme>
-  <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="Channel6.bud">
-    <title lang="en">Channel Name 6</title>
-    <desc lang="en">Channel Name 6</desc>
+  <programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="Channel5.bud">
+    <title lang="en">Channel Name 5</title>
+    <desc lang="en">Channel Name 5</desc>
   </programme>
   <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="Channel6.bud">
     <title lang="en">Channel Name 6</title>
@@ -631,25 +611,25 @@ LAST REGEN: 2026-04-05 12:30:12 UTC</desc>
     <title lang="en">Channel Name 6</title>
     <desc lang="en">Channel Name 6</desc>
   </programme>
-  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="Channel7.bud">
-    <title lang="en">Channel Name 7</title>
-    <desc lang="en">Channel Name 7</desc>
+  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="Channel6.bud">
+    <title lang="en">Channel Name 6</title>
+    <desc lang="en">Channel Name 6</desc>
   </programme>
-  <programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="Channel7.bud">
-    <title lang="en">Channel Name 7</title>
-    <desc lang="en">Channel Name 7</desc>
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="Channel6.bud">
+    <title lang="en">Channel Name 6</title>
+    <desc lang="en">Channel Name 6</desc>
   </programme>
-  <programme start="20260405140000 +0000" stop="20260405150000 +0000" channel="Channel7.bud">
-    <title lang="en">Channel Name 7</title>
-    <desc lang="en">Channel Name 7</desc>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="Channel6.bud">
+    <title lang="en">Channel Name 6</title>
+    <desc lang="en">Channel Name 6</desc>
   </programme>
-  <programme start="20260405150000 +0000" stop="20260405160000 +0000" channel="Channel7.bud">
-    <title lang="en">Channel Name 7</title>
-    <desc lang="en">Channel Name 7</desc>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="Channel6.bud">
+    <title lang="en">Channel Name 6</title>
+    <desc lang="en">Channel Name 6</desc>
   </programme>
-  <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="Channel7.bud">
-    <title lang="en">Channel Name 7</title>
-    <desc lang="en">Channel Name 7</desc>
+  <programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="Channel6.bud">
+    <title lang="en">Channel Name 6</title>
+    <desc lang="en">Channel Name 6</desc>
   </programme>
   <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="Channel7.bud">
     <title lang="en">Channel Name 7</title>
@@ -727,25 +707,25 @@ LAST REGEN: 2026-04-05 12:30:12 UTC</desc>
     <title lang="en">Channel Name 7</title>
     <desc lang="en">Channel Name 7</desc>
   </programme>
-  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="Channel8.bud">
-    <title lang="en">Channel Name 8</title>
-    <desc lang="en">Channel Name 8</desc>
+  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="Channel7.bud">
+    <title lang="en">Channel Name 7</title>
+    <desc lang="en">Channel Name 7</desc>
   </programme>
-  <programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="Channel8.bud">
-    <title lang="en">Channel Name 8</title>
-    <desc lang="en">Channel Name 8</desc>
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="Channel7.bud">
+    <title lang="en">Channel Name 7</title>
+    <desc lang="en">Channel Name 7</desc>
   </programme>
-  <programme start="20260405140000 +0000" stop="20260405150000 +0000" channel="Channel8.bud">
-    <title lang="en">Channel Name 8</title>
-    <desc lang="en">Channel Name 8</desc>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="Channel7.bud">
+    <title lang="en">Channel Name 7</title>
+    <desc lang="en">Channel Name 7</desc>
   </programme>
-  <programme start="20260405150000 +0000" stop="20260405160000 +0000" channel="Channel8.bud">
-    <title lang="en">Channel Name 8</title>
-    <desc lang="en">Channel Name 8</desc>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="Channel7.bud">
+    <title lang="en">Channel Name 7</title>
+    <desc lang="en">Channel Name 7</desc>
   </programme>
-  <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="Channel8.bud">
-    <title lang="en">Channel Name 8</title>
-    <desc lang="en">Channel Name 8</desc>
+  <programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="Channel7.bud">
+    <title lang="en">Channel Name 7</title>
+    <desc lang="en">Channel Name 7</desc>
   </programme>
   <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="Channel8.bud">
     <title lang="en">Channel Name 8</title>
@@ -823,25 +803,25 @@ LAST REGEN: 2026-04-05 12:30:12 UTC</desc>
     <title lang="en">Channel Name 8</title>
     <desc lang="en">Channel Name 8</desc>
   </programme>
-  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="Channel9.bud">
-    <title lang="en">Channel Name 9</title>
-    <desc lang="en">Channel Name 9</desc>
+  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="Channel8.bud">
+    <title lang="en">Channel Name 8</title>
+    <desc lang="en">Channel Name 8</desc>
   </programme>
-  <programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="Channel9.bud">
-    <title lang="en">Channel Name 9</title>
-    <desc lang="en">Channel Name 9</desc>
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="Channel8.bud">
+    <title lang="en">Channel Name 8</title>
+    <desc lang="en">Channel Name 8</desc>
   </programme>
-  <programme start="20260405140000 +0000" stop="20260405150000 +0000" channel="Channel9.bud">
-    <title lang="en">Channel Name 9</title>
-    <desc lang="en">Channel Name 9</desc>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="Channel8.bud">
+    <title lang="en">Channel Name 8</title>
+    <desc lang="en">Channel Name 8</desc>
   </programme>
-  <programme start="20260405150000 +0000" stop="20260405160000 +0000" channel="Channel9.bud">
-    <title lang="en">Channel Name 9</title>
-    <desc lang="en">Channel Name 9</desc>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="Channel8.bud">
+    <title lang="en">Channel Name 8</title>
+    <desc lang="en">Channel Name 8</desc>
   </programme>
-  <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="Channel9.bud">
-    <title lang="en">Channel Name 9</title>
-    <desc lang="en">Channel Name 9</desc>
+  <programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="Channel8.bud">
+    <title lang="en">Channel Name 8</title>
+    <desc lang="en">Channel Name 8</desc>
   </programme>
   <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="Channel9.bud">
     <title lang="en">Channel Name 9</title>
@@ -919,25 +899,25 @@ LAST REGEN: 2026-04-05 12:30:12 UTC</desc>
     <title lang="en">Channel Name 9</title>
     <desc lang="en">Channel Name 9</desc>
   </programme>
-  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="Channel10.bud">
-    <title lang="en">Channel Name 10</title>
-    <desc lang="en">Channel Name 10</desc>
+  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="Channel9.bud">
+    <title lang="en">Channel Name 9</title>
+    <desc lang="en">Channel Name 9</desc>
   </programme>
-  <programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="Channel10.bud">
-    <title lang="en">Channel Name 10</title>
-    <desc lang="en">Channel Name 10</desc>
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="Channel9.bud">
+    <title lang="en">Channel Name 9</title>
+    <desc lang="en">Channel Name 9</desc>
   </programme>
-  <programme start="20260405140000 +0000" stop="20260405150000 +0000" channel="Channel10.bud">
-    <title lang="en">Channel Name 10</title>
-    <desc lang="en">Channel Name 10</desc>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="Channel9.bud">
+    <title lang="en">Channel Name 9</title>
+    <desc lang="en">Channel Name 9</desc>
   </programme>
-  <programme start="20260405150000 +0000" stop="20260405160000 +0000" channel="Channel10.bud">
-    <title lang="en">Channel Name 10</title>
-    <desc lang="en">Channel Name 10</desc>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="Channel9.bud">
+    <title lang="en">Channel Name 9</title>
+    <desc lang="en">Channel Name 9</desc>
   </programme>
-  <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="Channel10.bud">
-    <title lang="en">Channel Name 10</title>
-    <desc lang="en">Channel Name 10</desc>
+  <programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="Channel9.bud">
+    <title lang="en">Channel Name 9</title>
+    <desc lang="en">Channel Name 9</desc>
   </programme>
   <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="Channel10.bud">
     <title lang="en">Channel Name 10</title>
@@ -1015,25 +995,25 @@ LAST REGEN: 2026-04-05 12:30:12 UTC</desc>
     <title lang="en">Channel Name 10</title>
     <desc lang="en">Channel Name 10</desc>
   </programme>
-  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="Channel11.bud">
-    <title lang="en">Channel Name 11</title>
-    <desc lang="en">Channel Name 11</desc>
+  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="Channel10.bud">
+    <title lang="en">Channel Name 10</title>
+    <desc lang="en">Channel Name 10</desc>
   </programme>
-  <programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="Channel11.bud">
-    <title lang="en">Channel Name 11</title>
-    <desc lang="en">Channel Name 11</desc>
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="Channel10.bud">
+    <title lang="en">Channel Name 10</title>
+    <desc lang="en">Channel Name 10</desc>
   </programme>
-  <programme start="20260405140000 +0000" stop="20260405150000 +0000" channel="Channel11.bud">
-    <title lang="en">Channel Name 11</title>
-    <desc lang="en">Channel Name 11</desc>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="Channel10.bud">
+    <title lang="en">Channel Name 10</title>
+    <desc lang="en">Channel Name 10</desc>
   </programme>
-  <programme start="20260405150000 +0000" stop="20260405160000 +0000" channel="Channel11.bud">
-    <title lang="en">Channel Name 11</title>
-    <desc lang="en">Channel Name 11</desc>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="Channel10.bud">
+    <title lang="en">Channel Name 10</title>
+    <desc lang="en">Channel Name 10</desc>
   </programme>
-  <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="Channel11.bud">
-    <title lang="en">Channel Name 11</title>
-    <desc lang="en">Channel Name 11</desc>
+  <programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="Channel10.bud">
+    <title lang="en">Channel Name 10</title>
+    <desc lang="en">Channel Name 10</desc>
   </programme>
   <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11</title>
@@ -1108,6 +1088,26 @@ LAST REGEN: 2026-04-05 12:30:12 UTC</desc>
     <desc lang="en">Channel Name 11</desc>
   </programme>
   <programme start="20260406110000 +0000" stop="20260406120000 +0000" channel="Channel11.bud">
+    <title lang="en">Channel Name 11</title>
+    <desc lang="en">Channel Name 11</desc>
+  </programme>
+  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="Channel11.bud">
+    <title lang="en">Channel Name 11</title>
+    <desc lang="en">Channel Name 11</desc>
+  </programme>
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="Channel11.bud">
+    <title lang="en">Channel Name 11</title>
+    <desc lang="en">Channel Name 11</desc>
+  </programme>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="Channel11.bud">
+    <title lang="en">Channel Name 11</title>
+    <desc lang="en">Channel Name 11</desc>
+  </programme>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="Channel11.bud">
+    <title lang="en">Channel Name 11</title>
+    <desc lang="en">Channel Name 11</desc>
+  </programme>
+  <programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="Channel11.bud">
     <title lang="en">Channel Name 11</title>
     <desc lang="en">Channel Name 11</desc>
   </programme>
