@@ -22,9 +22,9 @@ def generate_multi_channel_epg():
     ]
     
     CUSTOM_MESSAGES = [
-        "Update:",
-        "Cord Cutter Playlist Removed"
-        "Working On Groups"
+        "(TVP) = TVPASS",
+        "(KSTV) = KSTV",
+        "(PTV) = PEAKY TV"
     ]
     
     filename = "epg.xml"
@@ -55,7 +55,7 @@ def generate_multi_channel_epg():
             stop_str = prog_stop.strftime('%Y%m%d%H%M%S +0000')
             
             prog = ET.SubElement(tv, 'programme', start=start_str, stop=stop_str, channel=ch["id"])
-            ET.SubElement(prog, 'title', lang="en").text = "Added two new playlists. KSTV and Peaky TV" 
+            ET.SubElement(prog, 'title', lang="en").text = "The (TVP) = TVPASS Is Down At The Moment." 
             # Description now only contains the custom messages
             full_description = "\n".join(CUSTOM_MESSAGES)
             ET.SubElement(prog, 'desc', lang="en").text = full_description
