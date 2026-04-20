@@ -23,6 +23,7 @@ def generate_multi_channel_epg():
     
     CUSTOM_MESSAGES = [
         "(TVP) = TVPASS",
+        "(CC) = CORDCUTTER TV",
         "(KSTV) = KSTV",
         "(PTV) = PEAKY TV"
     ]
@@ -55,7 +56,7 @@ def generate_multi_channel_epg():
             stop_str = prog_stop.strftime('%Y%m%d%H%M%S +0000')
             
             prog = ET.SubElement(tv, 'programme', start=start_str, stop=stop_str, channel=ch["id"])
-            ET.SubElement(prog, 'title', lang="en").text = "The (TVP) = TVPASS Is Down At The Moment." 
+            ET.SubElement(prog, 'title', lang="en").text = "Replaced TVPass with a working list." 
             # Description now only contains the custom messages
             full_description = "\n".join(CUSTOM_MESSAGES)
             ET.SubElement(prog, 'desc', lang="en").text = full_description
