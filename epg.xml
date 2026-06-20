@@ -50,9 +50,9 @@
   </channel>
   <programme start="20260620190000 +0000" stop="20260621190000 +0000" channel="INFO.bud">
     <title lang="en">Added Whiplash TV, Adult Channels and testing a new source for LIVE TV.</title>
-    <desc lang="en">(CC)CORDCUTTER
-(KSTV)KSTV
-(PTV)PEAKYTV</desc>
+    <desc lang="en">(CC)CORDCUTTER (KSTV)KSTV (PTV)PEAKYTV
+
+</desc>
   </programme>
   <programme start="20260620190000 +0000" stop="20260620200000 +0000" channel="Fishing.bud">
     <title lang="en">Fishing</title>
