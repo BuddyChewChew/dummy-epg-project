@@ -49,8 +49,8 @@
     <icon src="https://github.com/BuddyChewChew/dummy-epg-project/blob/main/logos/default.png?raw=true"/>
   </channel>
   <programme start="20260620190000 +0000" stop="20260621190000 +0000" channel="INFO.bud">
-    <title lang="en">TVPass removed.</title>
-    <desc lang="en">(TVP) = TVPASS IS DOWN
+    <title lang="en">Added Whiplash TV, Adult Channels and testing a new source for LIVE TV.</title>
+    <desc lang="en">(TVP) = TVPASS REMOVED
 (CC) = CORDCUTTER TV
 (KSTV) = KSTV
 (PTV) = PEAKY TV</desc>
