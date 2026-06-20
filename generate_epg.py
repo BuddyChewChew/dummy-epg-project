@@ -22,10 +22,9 @@ def generate_multi_channel_epg():
     ]
     
     CUSTOM_MESSAGES = [
-        "(TVP) = TVPASS REMOVED",
-        "(CC) = CORDCUTTER TV",
-        "(KSTV) = KSTV",
-        "(PTV) = PEAKY TV"
+        "(CC)CORDCUTTER",
+        "(KSTV)KSTV",
+        "(PTV)PEAKYTV"
     ]
     
     filename = "epg.xml"
