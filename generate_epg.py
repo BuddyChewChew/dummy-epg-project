@@ -22,8 +22,8 @@ def generate_multi_channel_epg():
     ]
     
     CUSTOM_MESSAGES = [
-        "(CC)CORDCUTTER (KSTV)KSTV (PTV)PEAKYTV",
-        "",
+        "(CC)=CORDCUTTER ● (KSTV)=KSTV ● (PTV)=PEAKYTV",
+        "Discord: https://discord.gg/fnsWGDy2mm",
         ""
     ]
     
