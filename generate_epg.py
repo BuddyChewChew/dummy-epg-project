@@ -22,10 +22,9 @@ def generate_multi_channel_epg():
     ]
     
     CUSTOM_MESSAGES = [
-        "(TVP) = TVPASS",
-        "(CC) = CORDCUTTER TV",
-        "(KSTV) = KSTV",
-        "(PTV) = PEAKY TV"
+        "(CC)=CORDCUTTER ● (KSTV)=KSTV ● (PTV)=PEAKYTV",
+        "Discord: https://discord.gg/fnsWGDy2mm",
+        ""
     ]
     
     filename = "epg.xml"
@@ -56,7 +55,7 @@ def generate_multi_channel_epg():
             stop_str = prog_stop.strftime('%Y%m%d%H%M%S +0000')
             
             prog = ET.SubElement(tv, 'programme', start=start_str, stop=stop_str, channel=ch["id"])
-            ET.SubElement(prog, 'title', lang="en").text = "Replaced TVPass with a working list." 
+            ET.SubElement(prog, 'title', lang="en").text = "Added WhiplashTV Adult Channels and testing a new source for LIVE TV." 
             # Description now only contains the custom messages
             full_description = "\n".join(CUSTOM_MESSAGES)
             ET.SubElement(prog, 'desc', lang="en").text = full_description
